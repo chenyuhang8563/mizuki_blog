@@ -1,7 +1,7 @@
 ---
 title: Unity UIToolkit数据驱动UI实践
-published: 2026-3-11
-updated: 2026-3-11
+published: 2026-03-11
+updated: 2026-03-11
 description: 'Start to Learn about Unity UIToolkit features'
 image: ''
 tags: [Demo, Unity, UIToolkit]
